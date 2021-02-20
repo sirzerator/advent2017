@@ -1,0 +1,11 @@
+[package]
+name = "day7"
+version = "0.1.0"
+authors = ["Émile Plourde-Lavoie <nostradamus1935@echosvirtuels.com>"]
+
+[dependencies]
+regex = "0.2.3" 
+
+[[bin]]
+name = "day7"
+path = "day7.rs"
